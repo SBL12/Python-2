@@ -6,3 +6,4 @@ print("Hello" + Name + "To coding Class")
 #for loop 
 for i in range(3)
   print("Welcome")
+  print ("Random")
